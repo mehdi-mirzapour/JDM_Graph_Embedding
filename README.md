@@ -16,7 +16,9 @@ Please cite:
   journal={arXiv preprint arXiv:1911.04759},
   year={2019}
 }
-```  
+``` 
+  
+``` 
 @inproceedings{lafourcade2007making,
   title={Making people play for Lexical Acquisition with the JeuxDeMots prototype},
   author={Lafourcade, Mathieu},
