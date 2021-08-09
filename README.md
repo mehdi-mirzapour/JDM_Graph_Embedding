@@ -31,5 +31,3 @@ Please cite:
 ## Contact
 
 Please email your questions or comments to [Mehdi Mirzapour](https://sites.google.com/view/mehdimirzapour/contact).
-
-## [License](/LICENSE)
