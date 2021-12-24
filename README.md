@@ -1,9 +1,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-# JeuxDeMots Graph Embedding 
+# JeuxDeMots Knowledge Graph Dataset:
 
-**Semantic link prediction trained by JeuxDeMots.**
+This repository introduced `RezoJDM15K` a French Knowledge Graph Dataset and is no longer maintained. 
+Find the new dataset `RezoJDM16K` at: https://github.com/ContentSide/French_Knowledge_Graph   
 
----
+The implementation is outdated and it is archived at:
+https://github.com/ContentSide/French_Knowledge_Graph/tree/master/resources/old_implementation
+
 
 ## Citing the project
 
@@ -17,16 +20,6 @@ Please cite:
   year={2019}
 }
 ``` 
-  
-``` 
-@inproceedings{lafourcade2007making,
-  title={Making people play for Lexical Acquisition with the JeuxDeMots prototype},
-  author={Lafourcade, Mathieu},
-  booktitle={SNLP'07: 7th international symposium on natural language processing},
-  pages={7},
-  year={2007}
-}
-```
 
 ## Contact
 
