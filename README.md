@@ -4,7 +4,7 @@
 This repository introduced `RezoJDM15K` a French Knowledge Graph Dataset and is no longer maintained. 
 Find the new dataset `RezoJDM16K` at: https://github.com/ContentSide/French_Knowledge_Graph   
 
-The implementation is outdated and it is archived at:
+The implementation is outdated and is archived at:
 https://github.com/ContentSide/French_Knowledge_Graph/tree/master/resources/old_implementation
 
 
